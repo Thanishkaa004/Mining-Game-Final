@@ -1,1 +1,2 @@
-# Mining-Game-Final
+# Geologist
+Geologist Project
